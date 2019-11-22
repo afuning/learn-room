@@ -1,2 +1,23 @@
 # learn-room
-学习连接记录
+## CSS相关
+- [列举垂直水平居中的方法](https://www.notion.so/afuning/18f08d21fc2e4fe89457a57b26d5bbb8)
+- [CSSOM](https://www.notion.so/afuning/CSSOM-f1e1f74c7f03453f88a01e8c867f3941)
+- [CSS中的BFC](https://www.notion.so/afuning/CSS-BFC-7ffd871a26864317aa5d1900463c14bf)
+- [CSS一些零碎的问题](https://www.notion.so/afuning/CSS-3a7b459d58714241a11ed6bb29d9bdfd)
+- [CSS3新特性](https://www.notion.so/afuning/CSS3-f19e9413c1a04e75865ab1449546c663)
+## Javascript
+- [浅复制、深复制（浅克隆，深克隆/浅拷贝，深拷贝）](https://www.notion.so/afuning/85cdbdd08e3a40ff8120999736af9e56)
+- [原型链](https://www.notion.so/afuning/89ff431f733c4dcdaf4444461e303644)
+- [作用域](https://www.notion.so/afuning/94270126cd3445b6b9602a609544d2ee)
+- [this指向](https://www.notion.so/afuning/this-e12a727e80e94891bb6286b3a04e289c)
+- [深入理解new](https://www.notion.so/afuning/new-fd2a9f87480049e98296f92436679408)
+- [ES6相关](https://www.notion.so/afuning/ES6-b3db2943222f4fe894e37a9fcc83a4a5)
+- [内存管理](https://www.notion.so/afuning/bc0afe1ea8db4e09816911fa0947e752)
+- [执行机制（Event Loop）](https://www.notion.so/afuning/Event-Loop-0ea73e52c563416196a0ef40e574aae4)
+- [执行上下文](https://www.notion.so/afuning/613ff54702474e919ea2674ee93cf126)
+## 原创输出
+- [项目内置文档方案解决分享]()
+- [Vue源码阅读-nextTick](https://www.notion.so/afuning/Vue-nextTick-e882ce55b8c3496d97b6102f89aebeeb)
+- [手写代码合集](https://www.notion.so/afuning/5e405d55e89842a38b955dd9f535fedb)
+- [git流程方案](https://www.notion.so/afuning/git-8ebb8bc612594d61b37f6f964571173b)
+- [git不常用但重要操作集合](https://www.notion.so/afuning/git-3ab7db426e28419484be1e351c8a9133)
