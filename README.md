@@ -16,6 +16,9 @@
 - [执行机制（Event Loop）](https://www.notion.so/afuning/Event-Loop-0ea73e52c563416196a0ef40e574aae4)
 - [执行上下文](https://www.notion.so/afuning/613ff54702474e919ea2674ee93cf126)
 - [如何优化长任务(web worker以及时间分片)](https://www.notion.so/afuning/790d554203424fa19f3e74965fd8f6bd)
+## 运维相关
+- [服务器使用Docker之前端之路](https://www.notion.so/afuning/Docker-581de98905614702922addfcb3b3a541)
+- [Nginx相关操作](https://www.notion.so/afuning/Nginx-902d128c57d14eb7b018458d1f387cd7)
 ## 原创输出
 - [项目内置文档方案解决分享](https://www.notion.so/afuning/b48b508b29974202b70c7ba3f31f67f4)
 - [Vue源码阅读-nextTick](https://www.notion.so/afuning/Vue-nextTick-e882ce55b8c3496d97b6102f89aebeeb)
