@@ -22,3 +22,4 @@
 - [git流程方案](https://www.notion.so/afuning/git-8ebb8bc612594d61b37f6f964571173b)
 - [git不常用但重要操作集合](https://www.notion.so/afuning/git-3ab7db426e28419484be1e351c8a9133)
 - [webpack3升级webpack4](https://www.notion.so/afuning/webpack3-webpack4-9cf4c51033b747298a043f92269fd460)
+- [Next项目搭建](https://www.notion.so/afuning/Next-786ff51ea75e485c8bd0bf324653b317)
